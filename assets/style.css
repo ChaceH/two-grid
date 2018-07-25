@@ -1,0 +1,18 @@
+/* *{    
+    outline: solid black;
+}*/
+.card-white{
+    background: white;
+    padding: 10px;
+    /* margin: 5rem 15rem; */
+}
+.blue{
+    background-color: #3079AB;
+}
+.gray{
+    background-color: rgb(236, 236, 236);
+
+}
+.w-t{
+    color: white;
+}
